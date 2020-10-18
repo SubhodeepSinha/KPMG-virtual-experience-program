@@ -1,2 +1,2 @@
 # KPMG-virtual-experience-program
-![alt text](https://github.com/SubhodeepSinha/KPMG-virtual-experience-program/blob/main/Module%203/target_Customers.png?raw=true
+![Alt text](https://github.com/SubhodeepSinha/KPMG-virtual-experience-program/blob/main/Module%203/target_Customers.png?raw=true
